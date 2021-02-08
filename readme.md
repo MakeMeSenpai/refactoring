@@ -2,7 +2,7 @@
 
 In this series of exercises, we practice various refactoring techniques. You may want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
 
-## Exercise 1: 'Extract Method' Technique []
+## Exercise 1: 'Extract Method' Technique [x]
 
 Study the file '**extract_method.py**'. Use 'extract method' technique to improve modularity of the code. 
 
