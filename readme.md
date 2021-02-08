@@ -6,11 +6,11 @@ In this series of exercises, we practice various refactoring techniques. You may
 
 Study the file '**extract_method.py**'. Use 'extract method' technique to improve modularity of the code. 
 
-## Exercise 2: 'Inline Method' Technique []
+## Exercise 2: 'Inline Method' Technique [x]
 
 Study the file '**inline_method.py**'. Use 'inline method' technique to improve readability of the code. 
 
-## Exercise 3: 'Replace Temp with query' Technique []
+## Exercise 3: 'Replace Temp with query' Technique [x]
 
 Study the file '**replace_temp_with_query_fowler.py**'. Use Replace Temp with query' technique to improve readability of the code. 
 
