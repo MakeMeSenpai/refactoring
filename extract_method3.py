@@ -1,20 +1,34 @@
+"""Calculates distance between two circles"""
 # Written by Kamran Bigdely
 # Example for Compose Methods: Extract Method.
 import math
-xc1 = 4
-yc1 = 4.25
 
-xc2 = 53
-yc2 = -5.35
+# C == Circle
+C1_X = 4
+C1_Y = 4.25
+C2_X = 53
+C2_Y = -5.35
+
 # Calculate the distance between the two circle
-distance = math.sqrt((xc1-xc2)**2 + (yc1 - yc2)**2)
-print('distance', distance)
-# *** somewhere else in your program ***
-xa = -36
-ya = 97
+DIST_X = (C1_X - C2_X)**2
+DIST_Y = (C1_Y - C2_Y)**2
+TOTAL_DIST = math.sqrt(DIST_X + DIST_Y)
 
-xb = .34
-yb = .91
-# calcualte the length of vector AB vector which is a vector between A and B points.
-length = math.sqrt((xa-xb)*(xa-xb) + (ya-yb)*(ya-yb))
-print('length', length)
+# Prints distance
+print('distance', TOTAL_DIST)
+
+#****************************************
+"""Calculates length between two vectors"""
+# V == Vector
+VA_X = -36
+VA_Y = 97
+VB_X = 0.34
+VB_Y = 0.91
+
+# Calculate the length of vector AB (which is between vectors A and B).
+LENGTH_X = (VA_X - VB_X) * (VA_X - VB_X)
+LENGTH_Y = (VA_Y - VB_Y) * (VA_Y - VB_Y)
+TOTAL_LENGTH = math.sqrt(LENGTH_X + LENGTH_Y)
+
+# prints distance
+print('length', TOTAL_LENGTH)

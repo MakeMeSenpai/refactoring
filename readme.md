@@ -14,7 +14,7 @@ Study the file '**inline_method.py**'. Use 'inline method' technique to improve 
 
 Study the file '**replace_temp_with_query_fowler.py**'. Use Replace Temp with query' technique to improve readability of the code. 
 
-## Exercise 4: 'Introducing Explaining Variable' Technique []
+## Exercise 4: 'Introducing Explaining Variable' Technique [x]
 
 Study the file '**introduce_explaining_variable3.py**'. Use Replace Temp with query' technique to improve readability of the code. 
 
