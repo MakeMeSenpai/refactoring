@@ -18,10 +18,10 @@ Study the file '**replace_temp_with_query_fowler.py**'. Use Replace Temp with qu
 
 Study the file '**introduce_explaining_variable3.py**'. Use Replace Temp with query' technique to improve readability of the code. 
 
-## Exercise 5: 'Extract Method' Technique []
+## Exercise 5: 'Extract Method' Technique [x]
 
 Study the file '**extract_method3.py**'. Use 'extract method' technique to improve modularity of the code. 
 
-## Exercise 6: Various Techniques []
+## Exercise 6: Various Techniques [x]
 
 Study the file '**replace_temp_with_query.py**'. Use 'Replace Temp with query' and 'Extract Method' techniques to improve readability of the code. 
