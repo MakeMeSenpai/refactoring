@@ -81,3 +81,27 @@ Study '**remove_control_flag2.py**' and '**remove_control_flag3.py**'. Use 'remo
 ## Exercise 20: 'Replace Nested Conditional With Gaurd Clauses' Technique
 
 Study '**replace_nested_conditional_with_gaurd_clauses.py**'. Use 'replace nested conditional with gaurded clauses' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 21: 'Move Attribute' Technique
+
+Study '**move_field2.py**'. Use 'move attribute' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 22: 'Extract Class' Technique
+
+Study '**extract_class.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 23: 'Extract Class' Technique
+
+Study '**extract_class2.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 24: 'Extract Class' Technique
+
+Study '**extract_class3.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 25: 'Replace Magic Number with Symbolic Constant' Technique
+
+Study '**replace_magic_numbers_with_named_constants.py**'. Use 'replace magic number with symbolic constant' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 26: 'Extract Superclass' Technique
+
+Study '**extract_superclass2.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
